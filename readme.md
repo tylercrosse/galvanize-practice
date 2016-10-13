@@ -26,7 +26,7 @@ Code is a set of instructions:
 > Combine Both Slices of Bread. ...
 > Eat and Repeat.
 
-** Q. In what order are these instructions/statements executed? **
+**Q. In what order are these instructions/statements executed?**
 
 ---
 
@@ -63,7 +63,7 @@ let d = 10
 let ans2 = c + d
 ```
 
-** Q. How do I access the values stored in the variables? Are their any problems with this code? Could this be improved at all? (3) **
+**Q. How do I access the values stored in the variables? Are their any problems with this code? Could this be improved at all? (3)**
 
 ```js
 function add(param1, param2) {
