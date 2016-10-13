@@ -175,4 +175,4 @@ let arrowFuncExpression = () => (
 
 - can be anonymous
 
-#### Complete [Part 3](./exercises.md/#part-2) of the exercise (5)
+#### Complete [Part 2](./exercises.md/#part-2) of the exercise (5)
